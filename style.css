@@ -93,7 +93,7 @@ h1, h2 {
 
 .project-sty {
     position: absolute;
-    top: 0;
+    top: 4rem;
     left: 0;
     right: 0;
     bottom: 0;
@@ -139,5 +139,14 @@ h1, h2 {
 }
 .contact-item p{
     margin: 0;
+}
+
+.descript{
+    position: absolut;
+    top: 1rem;
+    left: 1rem;
+    right:1rem;
+    font-size: 0.8rem;
+    color:#666;
 }
 
